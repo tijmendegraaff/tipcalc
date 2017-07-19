@@ -5,13 +5,13 @@ import {
 } from 'react-native';
 
 export default class Hello extends React.Component {
-    render() {
-        return (
-            <View>
-                <Text>
-                    Hello from Hello.js
-                </Text>
-            </View>
-        ) 
-    }
+  render() {
+    return (
+      <View>
+        <Text>
+          Hello from Hello.js
+        </Text>
+      </View>
+    ) 
+  }
 }
